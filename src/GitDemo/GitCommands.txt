@@ -8,5 +8,9 @@ git push -u origin master
 
 
 existing workspace:
+
+git status
+
 git add .
-git push -u origin master
+git commit -m "code updated"
+git push origin master
