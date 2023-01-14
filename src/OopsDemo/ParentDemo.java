@@ -6,7 +6,7 @@ public class ParentDemo {
 	 
 	 public void sum(){
 		 
-		 System.out.println("Hello Sum");
+		 System.out.println("Hello Sum There is some modifications");
 		 
 	 }
 	 
